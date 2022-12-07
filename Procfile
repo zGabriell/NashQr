@@ -1,0 +1,1 @@
+worker: sh nash.sh
